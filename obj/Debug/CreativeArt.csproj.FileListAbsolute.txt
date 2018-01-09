@@ -1,0 +1,5 @@
+D:\Projects\CreativeArt\CreativeArt\bin\CreativeArt.dll
+D:\Projects\CreativeArt\CreativeArt\bin\CreativeArt.pdb
+D:\Projects\CreativeArt\CreativeArt\obj\Debug\CreativeArt.dll
+D:\Projects\CreativeArt\CreativeArt\obj\Debug\CreativeArt.pdb
+D:\Projects\CreativeArt\CreativeArt\obj\Debug\CreativeArt.csprojResolveAssemblyReference.cache

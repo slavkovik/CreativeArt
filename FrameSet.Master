@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FrameSet.master.cs" Inherits="CreativeArt.FrameSet" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Фото Креатив</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="css/StyleSheet1.css" rel="stylesheet" />
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <h1 style="font: bold; font-family: 'Curlz MT'; font-size: xx-large">Photo Creative</h1>
+    <div class="HeaderBarThreshold">
+        <h2>
+            <asp:HyperLink Style="padding-right: 2em" ID="HyperLink1" runat="server" NavigateUrl="~/home.aspx">Home</asp:HyperLink>
+            <asp:HyperLink Style="padding-right: 2em" ID="HyperLink2" runat="server" NavigateUrl="~/AboutUs.aspx">About us</asp:HyperLink>
+            <asp:HyperLink Style="padding-right: 2em" ID="HyperLink3" runat="server" NavigateUrl="~/Services.aspx">Services</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/ContactUS.aspx">Contact us</asp:HyperLink>
+        </h2>
+    </div>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <h3>
+        <br />
+        &copy PHOTO CREATIVE 2015 &nbsp <a href="mailto:slavkovik@yahoo.com">slavkovik@yahoo.com</a> &nbsp +389 (0)77 705 834</h3>
+</body>
+</html>

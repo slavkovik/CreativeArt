@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Images>
+  <image name="face.jpg" order="1" msg="We Create art through photography"/>
+  <image name="hands.jpg" order="2" msg="We meet your expectations"/>
+  <image name="rose.jpg" order="3" msg="Our goals are to make you look as movie star" />
+  <image name="coctail.jpg" order="4" msg="Our specialty is to capture all the memories of your special day"/>
+</Images>

@@ -1,0 +1,26 @@
+﻿body {
+    
+    background-color:black;
+    text-align: center;
+    border-bottom-color:white;
+    text-shadow:inherit;
+    color:white;
+    font:bold 12px arial;
+}
+a:link {
+    color:orange;
+}
+.HeaderBarThreshold:hover
+{
+    color: red;  
+    
+}
+h1 {
+    color:skyblue;
+}
+h2 {
+    color:red;
+}
+h3 {
+    color:skyblue;
+}

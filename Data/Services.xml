@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<services>
+  <serviceList>
+    <service>Weddings</service>
+    <service>Parties</service>
+    <service>Senior portraits</service>
+    <service>Family portrait</service>
+    <service>Baby portraits</service>
+    <service>Promotional shots</service>
+  </serviceList>
+  <serviceTextAbove>
+    <serviceText1>
+      Portrait Studio Services
+      Our Full Portrait Studio offers:
+    </serviceText1>
+  </serviceTextAbove>
+  <serviceTextBellow>
+    <serviceText2>
+      We offer indoor and outdoor sittings, and can even go to your home or any other location of your choice. Our printing is all done in-store, allowing us to fill orders quickly and efficiently. Expect your proofs the next business day, and portrait orders in 2 to 3 days. Wedding Photography Your wedding is one of the most important events of your life, and we'll do everything to capture the memories of your special day. Our team will meet with you in the weeks before your wedding to discuss your plans and how we can tailor our services to suit your needs. Our specialty is to capture all the memories of your special day with as little stress as possible. Event photography We are available to photograph reunions, graduations, and other special events and return prints the very same night! Call us at +389 (0)77 705 834 to schedule a sitting.
+    </serviceText2>
+  </serviceTextBellow>
+</services>
+
